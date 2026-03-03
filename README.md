@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziaul145
 - 👀 I’m interested in Developer 
-- 🌱 I’m currently learning full stack developer 
+- 🌱 I’m currently learning in Frontend developer 
 - 💞️ I’m looking to collaborate on Development 
 - 📫 How to reach me by YouTube 
 
